@@ -1,2 +1,2 @@
-# ex2
-A demonstration project for classes with an upper secondary school in the field of programming
+# Zadanie 2
+Przykładowe rozwiązanie zadania 2.
